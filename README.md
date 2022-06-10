@@ -1,5 +1,5 @@
 # Study-Tools
-ConvertStudyTime
+**ConvertStudyTime**
 
 A program that runs from the CLI that takes two arguments:
 1. A string that should represent the topic for the finished study session 
@@ -8,6 +8,6 @@ A program that runs from the CLI that takes two arguments:
 The resulting output produces print with a timestamp for date, time, study session subject, and converting minutes to a percentage of an hour.
 
 
-BreakActivity
+**BreakActivity**
 
 A program that runs from CLI which prints an activity at random from a pool of hardcoded choices.
